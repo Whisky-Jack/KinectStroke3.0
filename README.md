@@ -1,4 +1,5 @@
-# KinectStroke3.0
+# KinectStroke3.0 <img src="KinectStroke3.0/KinectStroke3.0/Game.ico" height="48">
+
 Project files for the old version of the KinectStroke app designed to run on Windows 7. The new version of KinectStroke can be found [here](https://github.com/Whisky-Jack/KinectStroke).
 
 ## Table of Contents
